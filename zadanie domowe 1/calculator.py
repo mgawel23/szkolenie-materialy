@@ -1,3 +1,5 @@
+# ZADANIE DOMOWE 1 - Prosty kalkulator
+
 print("Cześć! Użyj prostego kalkulatora do podstawowych obliczeń.")
 
 try:
