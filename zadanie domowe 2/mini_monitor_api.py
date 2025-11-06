@@ -1,10 +1,12 @@
+# ZADANIE DOMOWE 2 - Mini Monitor API
+
 # Skrypt:
 # - pobiera dane z kilku publicznych API (GET),
 # - analizuje ich odpowiedzi (status, nagłówki, JSON),
 # - zlicza wyniki i wypisuje podsumowanie.
 
 import requests
-from typing import Dict, Optional, Any, Tuple, List
+from typing import Dict, Optional, Tuple
 
 urls = [
     "https://api.github.com",
